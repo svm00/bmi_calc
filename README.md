@@ -7,7 +7,7 @@ A Flutter app that calculates your Body Mass Index (BMI) based on your height an
 <table>
   <tr>
     <td><img src="screenshots/input_page.jpg" alt="Input Page" width="250"/></td>
-    <td><img src="screenshots/result_page.png" alt="Result Page" width="250"/></td>
+    <td><img src="screenshots/result_page.jpg" alt="Result Page" width="250"/></td>
   </tr>
 </table>
 
