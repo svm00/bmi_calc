@@ -39,6 +39,14 @@ Material Design – UI components
 ├── constants.dart # App constants (colors, styles)
 └── main.dart # App entry point
 
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/svm00/bmi_calc.git
+cd bmi_calc
 
 ## 🚀 Getting Started
 
