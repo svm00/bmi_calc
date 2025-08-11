@@ -26,6 +26,8 @@ Flutter – Cross-platform app framework
 Dart – Programming language
 Material Design – UI components
 
+
+## Project Structure
 📂 lib/
 ├── components/ # Reusable UI widgets
 │ ├── bottom_button.dart # Custom bottom button widget
@@ -40,6 +42,7 @@ Material Design – UI components
 ├── calc_brain.dart # BMI calculation logic
 ├── constants.dart # App constants (colors, styles)
 └── main.dart # App entry point
+
 ▶️ Getting Started
 Clone the repository
 
