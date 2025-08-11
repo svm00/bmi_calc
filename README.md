@@ -4,9 +4,13 @@
 A Flutter app that calculates your Body Mass Index (BMI) based on your height and weight, and gives you feedback on your health status with simple visual UI.
 
 ---
-| Input Page                           | Result Page                            |
-| ------------------------------------ | -------------------------------------- |
-| ![Input](screenshots/input_page.jpg) | ![Result](screenshots/result_page.png) |
+<table>
+  <tr>
+    <td><img src="screenshots/input_page.jpg" alt="Input Page" width="250"/></td>
+    <td><img src="screenshots/result_page.png" alt="Result Page" width="250"/></td>
+  </tr>
+</table>
+
 
 ## 📌 Features
 - Input height and weight
