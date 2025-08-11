@@ -13,12 +13,10 @@ A Flutter app that calculates your Body Mass Index (BMI) based on your height an
 - Clean and reusable UI components
 
 ---
-
 ## 🛠️ Tech Stack
-
--Flutter – Cross-platform app framework
--Dart – Programming language
--Material Design – UI components
+- Flutter – Cross-platform app framework
+- Dart – Programming language
+- Material Design – UI components
 
 
 ## Project Structure
