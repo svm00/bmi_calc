@@ -1,7 +1,5 @@
 🧮 BMI Calculator 
 [![Flutter](https://img.shields.io/badge/Flutter-3.22-blue?logo=flutter)](https://flutter.dev)
-[![GitHub stars](https://img.shields.io/github/stars/svm00/bmi_calc?style=social)](https://github.com/svm00/bmi_calc/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/svm00/bmi_calc?style=social)](https://github.com/svm00/bmi_calc/network/members)
 
 A new Flutter project.
 
